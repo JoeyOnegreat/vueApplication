@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.11.5",
+    "@pderas/vue2-geocoder": "^1.1.0",
     "axios": "^0.26.1",
     "bootstrap": "^4.6.1",
     "bootstrap-vue": "^2.17.3",
@@ -18,7 +19,8 @@
     "portal-vue": "^2.1.7",
     "vue": "^2.6.14",
     "vue-axios": "^3.4.1",
-    "vue-router": "^3.5.1"
+    "vue-router": "^3.5.1",
+    "vue2-google-maps": "^0.10.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
